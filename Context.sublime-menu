@@ -1,0 +1,8 @@
+[
+	
+	{	
+		"id":"example",
+		"caption": "Run PMD for this file",
+		"command":"example"
+	}
+]
